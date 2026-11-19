@@ -1,0 +1,18 @@
+﻿KPI,Value
+Total orders,99441
+Delivered orders,96478
+Delivered order rate (%),97.02
+Canceled orders,625
+Canceled order rate (%),0.63
+Orders with items,98666
+Order-item rows,112650
+"Total sales value (BRL, excluding freight)",13591643.7
+Average order value (BRL),137.75
+Unique customers,96096
+One-time customers,93099
+One-time customer percentage (%),96.88
+Repeat customers,2997
+Repeat customer percentage (%),3.12
+Orders from repeat customers,6342
+Average review score,4.09
+Low ratings 1-2 (%),14.69

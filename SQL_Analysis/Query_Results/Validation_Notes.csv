@@ -1,0 +1,6 @@
+﻿topic,known_result,note
+Review row count,"Python raw CSV: 99,224; earlier SQL: 99,223",Rerun current database count; use current database output consistently.
+Delivery-review comparison,"Python latest-review-per-order: 6,381 late reviewed; 89,443 on-time/early reviewed",Earlier SQL method produced different counts; query script now defines one latest review per order.
+Sales definition,Sum of order_items.price,Excludes freight and includes all order statuses.
+Profitability,Not calculated,Reliable product cost data is not present in the core tables.
+Monthly sales coverage,2016-09 through 2018-09 in known result set,Partial edge months should not be compared directly with complete months.
