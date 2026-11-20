@@ -8,6 +8,18 @@ An end-to-end data analytics portfolio project using the Brazilian Olist E-Comme
 **Dataset:** Olist Brazilian E-Commerce Public Dataset  
 **Data Period:** September 2016 – October 2018
 
+
+## Technical Skills Demonstrated
+
+| Technology | Application |
+|---|---|
+| SQL (MySQL) | Data validation, joins, aggregations, business KPIs |
+| Python | Pandas, NumPy, exploratory analysis, Matplotlib |
+| Excel | Supporting data inspection and validation |
+| Power BI | Data modelling, DAX measures, interactive dashboards |
+| Business Analytics | Sales, customer retention, delivery and satisfaction analysis |
+
+
 ## Business Objectives
 
 - Analyse revenue trends and identify leading product categories.
@@ -69,6 +81,16 @@ This indicates a strong association between delivery timeliness and customer sat
 
 Health & Beauty and Watches & Gifts were among the highest sales-generating categories, making them important areas for category-level performance monitoring.
 
+
+## Business Value & Recommendations
+
+- Identified a 3.12% repeat customer rate, highlighting an opportunity to investigate customer retention.
+- Evaluated delivery performance across more than 96,000 delivered orders.
+- Found that late deliveries were associated with substantially lower customer review scores.
+- Developed interactive dashboards to monitor sales, customer behaviour and operational KPIs.
+- Recommended retention analysis, delivery monitoring and customer satisfaction improvements.
+
+
 ## Business Recommendations
 
 - Investigate opportunities to improve repeat purchasing through customer engagement and retention initiatives.
@@ -86,9 +108,6 @@ Health & Beauty and Watches & Gifts were among the highest sales-generating cate
 
 ## Dashboard Screenshots
 
-
-## Dashboard Screenshots
-
 ### 1. Business Performance Overview
 ![Business Performance Dashboard](Screenshots/Business_Overview.png)
 
@@ -101,7 +120,8 @@ Health & Beauty and Watches & Gifts were among the highest sales-generating cate
 
 ## Data Source
 
-Olist Brazilian E-Commerce Public Dataset, available on Kaggle.
+[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 
 ## Project Status
 
