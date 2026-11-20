@@ -65,6 +65,17 @@ The analysis includes approximately 99,000 orders, 96,000 unique customers and 1
 
 Sales are based on order-item prices, excluding freight, and should not be interpreted as net revenue or profit.
 
+## Dashboard Screenshots
+
+### 1. Business Performance Overview
+![Business Performance Dashboard](Screenshots/Business_Overview.png)
+
+### 2. Customer Analytics & Retention
+![Customer Analytics Dashboard](Screenshots/Customer_Analytics.png)
+
+### 3. Delivery Performance & Customer Satisfaction
+![Delivery Performance Dashboard](Screenshots/Delivery_Satisfaction.png)
+
 ## Key Business Findings
 
 ### 1. Customer Retention
@@ -105,17 +116,6 @@ Health & Beauty and Watches & Gifts were among the highest sales-generating cate
 - Reliable product cost data is unavailable, so profitability was not calculated.
 - Some boundary months contain incomplete observations.
 - Observed relationships do not necessarily establish causation.
-
-## Dashboard Screenshots
-
-### 1. Business Performance Overview
-![Business Performance Dashboard](Screenshots/Business_Overview.png)
-
-### 2. Customer Analytics & Retention
-![Customer Analytics Dashboard](Screenshots/Customer_Analytics.png)
-
-### 3. Delivery Performance & Customer Satisfaction
-![Delivery Performance Dashboard](Screenshots/Delivery_Satisfaction.png)
   
 
 ## Data Source
