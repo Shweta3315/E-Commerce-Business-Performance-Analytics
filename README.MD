@@ -93,15 +93,6 @@ This indicates a strong association between delivery timeliness and customer sat
 Health & Beauty and Watches & Gifts were among the highest sales-generating categories, making them important areas for category-level performance monitoring.
 
 
-## Business Value & Recommendations
-
-- Identified a 3.12% repeat customer rate, highlighting an opportunity to investigate customer retention.
-- Evaluated delivery performance across more than 96,000 delivered orders.
-- Found that late deliveries were associated with substantially lower customer review scores.
-- Developed interactive dashboards to monitor sales, customer behaviour and operational KPIs.
-- Recommended retention analysis, delivery monitoring and customer satisfaction improvements.
-
-
 ## Business Recommendations
 
 - Investigate opportunities to improve repeat purchasing through customer engagement and retention initiatives.
@@ -122,7 +113,44 @@ Health & Beauty and Watches & Gifts were among the highest sales-generating cate
 
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+## How to Run This Project
 
-## Project Status
+### Requirements
+- MySQL 8.0 or later
+- Python with pandas, NumPy and Matplotlib
+- Jupyter Notebook or JupyterLab
+- Power BI Desktop
 
-Core analysis and dashboard development completed. Portfolio documentation and publication in progress.
+### Dataset Setup
+1. Download the Brazilian E-Commerce Public Dataset by Olist from Kaggle.
+2. Extract the CSV files into a local `Raw_Data` folder.
+3. Keep `Raw_Data` alongside the `Python Analysis` folder, or update the notebook's CSV file paths accordingly.
+
+### SQL Analysis
+1. Create a MySQL database named `ecommerce_analytics`.
+2. Import the required Olist CSV tables into MySQL.
+3. Open `SQL_Analysis/ecommerce_analysis_queries.sql` in MySQL Workbench.
+4. Execute the queries after verifying the table names and data types.
+
+### Python Analysis
+1. Open `Python Analysis/Ecommerce_Customer_Delivery_Analysis.ipynb` in Jupyter Notebook.
+2. Install the required packages if necessary:
+
+   `pip install pandas numpy matplotlib jupyter`
+
+3. Verify the CSV paths in the notebook.
+4. Run the notebook cells in order to reproduce the analysis and visualisations.
+
+### Power BI Dashboard
+1. Open `Power BI/Ecommerce_Business_Performance_Analytics.pbix` in Power BI Desktop.
+2. Update the data-source paths or connections if required.
+3. Refresh the report after configuring the required data sources.
+
+**Note:** The raw dataset is not included in this repository. The original CSV files must be downloaded separately. SQL queries assume that the required tables have already been imported into MySQL.
+  
+
+**Project Status: Completed**
+
+SQL analysis, Python exploratory analysis, Power BI dashboard development, business insights and GitHub documentation have been completed and published.
+
+The repository contains the analysis files, supporting visualisations, dashboard screenshots and project documentation.
