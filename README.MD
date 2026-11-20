@@ -86,7 +86,18 @@ Health & Beauty and Watches & Gifts were among the highest sales-generating cate
 
 ## Dashboard Screenshots
 
-Add screenshots of the three Power BI report pages here.
+
+## Dashboard Screenshots
+
+### 1. Business Performance Overview
+![Business Performance Dashboard](Screenshots/Business_Overview.png)
+
+### 2. Customer Analytics & Retention
+![Customer Analytics Dashboard](Screenshots/Customer_Analytics.png)
+
+### 3. Delivery Performance & Customer Satisfaction
+![Delivery Performance Dashboard](Screenshots/Delivery_Satisfaction.png)
+  
 
 ## Data Source
 
